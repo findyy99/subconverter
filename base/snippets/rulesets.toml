@@ -72,6 +72,10 @@ ruleset = "rules/NobyDa/Surge/Download.list"
 
 [[rulesets]]
 group = "🎯 全球直连"
+ruleset = "rules/findyy/zzulib.list"
+
+[[rulesets]]
+group = "🎯 全球直连"
 ruleset = "[]GEOIP,CN"
 
 [[rulesets]]

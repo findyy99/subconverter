@@ -1,2 +1,7 @@
 subconverter.exe
+cache
+.DS_Store
+*.swp
+subconverter
+pref.toml
 .vscode
