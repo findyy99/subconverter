@@ -4,6 +4,7 @@
 🛑 全球拦截,rules/NobyDa/Surge/AdRule.list
 🛑 全球拦截,rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list
 🎥 NETFLIX,rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list
+🎥 NETFLIX,rules/findyy/emby.list
 🤖 OpenAI,rules/findyy/OpenAI.list
 💲 Crypto,rules/findyy/Crypto.list
 🌍 国外媒体,rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list
