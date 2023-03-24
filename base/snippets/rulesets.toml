@@ -23,6 +23,14 @@ group = "🎥 NETFLIX"
 ruleset = "rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list"
 
 [[rulesets]]
+group = "🤖 OpenAI"
+ruleset = "rules/findyy/OpenAI.list"
+
+[[rulesets]]
+group = "💲 Crypto"
+ruleset = "rules/findyy/Crypto.list"
+
+[[rulesets]]
 group = "🌍 国外媒体"
 ruleset = "rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list"
 
