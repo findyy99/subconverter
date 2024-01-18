@@ -5,3 +5,6 @@ cache
 subconverter
 pref.toml
 .vscode
+cmake-build-debug
+.idea
+base/cache
